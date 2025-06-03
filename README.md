@@ -9,6 +9,22 @@ To build a clear, insight-driven Power BI dashboard using Superstore data.
 - Power BI Desktop
 - Sample - Superstore.csv dataset
 
+superstore-powerbi-storytelling
+│
+├── 📄 README.md                    ← Project overview, summary, tools used, insights, and what you learned
+├── 📊 SuperSalesdatacleaned.pbix  ← Final cleaned Power BI dashboard file
+├── 📄 Superstore_Summary.pdf      ← Exported summary slide (PDF)
+│
+├── 📁 data/
+│   └── Superstore_Cleaned.csv     ← Cleaned Superstore dataset
+│
+├── 📁 visuals/
+│   ├── kpi_cards.png              ← KPI Cards screenshot
+│   ├── sales_by_region.png        ← Regional sales chart
+│   ├── category_analysis.png      ← Category/Sub-Category performance
+│   ├── profit_trend.png           ← Sales and profit trend over time
+│   └── shipping_mode.png          ← Shipping mode analysis
+
  📈 Visuals Included
 - KPI Cards: Total Sales, Total Profit, Avg Discount
 - Sales by Region, Category, and Segment
